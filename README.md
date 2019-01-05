@@ -9,6 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 **faker**
 To generate random content for the comments.
 
+**Semantic UI CDN**
+For styling of content such as buttons and text.
+
 ## Getting Started
 
 In the project directory, you can run:
